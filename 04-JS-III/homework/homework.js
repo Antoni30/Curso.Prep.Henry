@@ -277,7 +277,7 @@ function continueStatement(numero) {
     if(num!=5){
       acum=acum+2
       arr.push(acum);
-    }
+    } 
     num++;
   }while(num!=10)
   return arr;
