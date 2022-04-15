@@ -1,0 +1,6 @@
+
+    Variables:Es donde almacenaremos informacion para luego utlizarlo esta puede ser de diferentes tipos de datos 
+    Strings:Es la union de varios caracteres 
+    Funciones (argumentos, return):Pequeños fracmentos de codigo que pueden poseer datos inicales(argumentos) para trabajar con ellos, realizan una tarea en especifico que pueden devolver una respuesta(return) o no 
+    Declaraciones if: Es una condicionar que nos ayuda a ver si cumple o no un requisito  
+    Valores booleanos (true, false):Es un tipo de dato que nos ayuda a ver si es Verdadero o no un condicion 
