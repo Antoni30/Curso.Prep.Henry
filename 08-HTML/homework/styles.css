@@ -1,0 +1,39 @@
+body{
+    display: flexbox;
+    background: url(https://c8.alamy.com/compes/2bdd56f/fondo-sin-costuras-comida-dulces-contornos-blancos-fondo-de-pantalla-rosa-con-patron-de-mosaico-vector-2bdd56f.jpg);
+}
+div{
+    margin: auto;
+}
+h1{
+    color:brown;
+}
+img{
+    width: 400px;
+}
+ul li {
+    display: inline;
+    margin: 5rem;
+}
+ul{
+    background-color: white;
+    height: 30px;
+    
+}
+#thirdDiv{
+    width: 600px;
+    height: 500px;
+    margin: auto;
+    background-color:cadetblue;
+    padding: 50px;
+    border: 5px solid black;
+    display: block;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
+.cajaImg{
+    border: 3px solid black;
+    width: 400px;
+}
